@@ -1,0 +1,187 @@
+body {
+  color: #40514E;
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+div {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 15px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 0;
+  font
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 20px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+line-height: 2;
+
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+hr {
+  border-top: 5px dotted;
+  width: 50px;
+  color: gray;
+}
+
+.eggcellent {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  padding: 20px 0;
+  background-color: #66BFBF;
+
+}
+
+.Diz {
+  text-decoration: underline;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.cloud-bottom {
+  position: absolute;
+}
+
+.dizzy-gif {
+  padding-top: 50px;
+  width: 10%;
+}
+
+.Welcome {
+  color: #40514E;
+  width: 30%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.treasure-island {
+  float: left;
+  margin-right: 30px;
+  width: 45%;
+}
+
+.fantasyworld {
+  float: right;
+  margin-left: 30px;
+  width: 45%;
+}
+
+.skill-row {
+  line-height: 2;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.Tresure-synopsis {}
+
+.Fantasy-synopsis {}
+
+.message{
+  width: 50%;
+  margin: auto;
+  margin-top: 40PX;
+}
+.BUTTON_RQJ {
+  background: #3D94F6;
+  background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: linear-gradient(to bottom, #3D94F6, #1E62D0);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 5px;
+  box-shadow: 1px 1px 20px 0px #000000;
+  -webkit-box-shadow: 1px 1px 20px 0px #000000;
+  -moz-box-shadow: 1px 1px 20px 0px #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_RQJ:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.nameless{
+  padding-bottom: 50px;
+}
+.div-button{
+  padding-bottom: 50px;
+}
+
+.footer {
+  color: #66BFBF;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75em;
+  padding: 5px auto 0px auto;
+
+}
